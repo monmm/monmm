@@ -5,7 +5,7 @@ I've great interest in full-stack development,
 machine learning,  business administration,  
 and everything in between.
 
-:woman_technologist: I'm currently a third year **CS** major at **UNAM**.  
+:woman_technologist: I'm currently a graduate of the **CS** major at **UNAM**.  
 
 Here are some technologies I've been working with:  
 * Java  
